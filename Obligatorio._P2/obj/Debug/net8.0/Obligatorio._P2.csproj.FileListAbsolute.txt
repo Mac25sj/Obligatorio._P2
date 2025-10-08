@@ -1,0 +1,5 @@
+C:\Users\matia\Desktop\Obligatorio._P2-master\Obligatorio._P2\obj\Debug\net8.0\Obligatorio._P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Desktop\Obligatorio._P2-master\Obligatorio._P2\obj\Debug\net8.0\Obligatorio._P2.AssemblyInfoInputs.cache
+C:\Users\matia\Desktop\Obligatorio._P2-master\Obligatorio._P2\obj\Debug\net8.0\Obligatorio._P2.AssemblyInfo.cs
+C:\Users\matia\Desktop\Obligatorio._P2-master\Obligatorio._P2\obj\Debug\net8.0\Obligatorio._P2.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Obligatorio._P2-master\Obligatorio._P2\obj\Debug\net8.0\Obligatorio._P2.sourcelink.json
